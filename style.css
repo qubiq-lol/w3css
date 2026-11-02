@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background: #e8a317;
+  background: #ffee8ffd;
   color: white;
   text-align: center;
   padding: 20px 10px;
@@ -43,7 +43,7 @@ nav a {
 }
 
 nav a:hover {
-  background: #e8a317;
+  background: #fff098fd;
 }
 
 main {
@@ -69,14 +69,14 @@ table {
 }
 
 th, td {
-  border: 1px solid #ccc;
+  border: 1px solid #bebebe;
   padding: 10px;
   text-align: left;
   vertical-align: middle;
 }
 
 th {
-  background: #fdf0c8;
+  background: #fff3c9;
   text-align: center;
 }
 
@@ -102,6 +102,6 @@ li {
 footer {
   text-align: center;
   padding: 15px;
-  color: #777;
+  color: #646060;
   font-size: 14px;
 }
